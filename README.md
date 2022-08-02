@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/therogersak" target="blank"><img src="https://img.shields.io/twitter/follow/therogersak?logo=twitter&style=for-the-badge" alt="therogersak" /></a> </p>
 
+```
 - 🔭 I’m currently working on **whatsapp clone**
 
 - 🌱 I’m currently learning **Next-Js**
@@ -18,6 +19,7 @@
 - 📄 Know about my experiences [https://therogersak.github.io/Rogers-Resume/](https://therogersak.github.io/Rogers-Resume/)
 
 - ⚡ Fun fact **DO MORE PRACTICE 😊**
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
