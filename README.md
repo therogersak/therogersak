@@ -8,15 +8,15 @@
 <p align="left"> <a href="https://twitter.com/therogersak" target="blank"><img src="https://img.shields.io/twitter/follow/therogersak?logo=twitter&style=for-the-badge" alt="therogersak" /></a> </p>
 
 ```
-- 🔭 I’m currently working on **whatsapp clone**
+<🔭 I’m currently working on **whatsapp clone />
 
-- 🌱 I’m currently learning **Next-Js**
+< I’m currently learning **Next-Js />
 
-- 💬 Ask me about **React, Redux, Firebase, Javascript**
+< 💬 Ask me about **React, Redux, Firebase, Javascript** />
 
-- 📫 How to reach me **therogersak123@gmail.com**
+< 📫 How to reach me **therogersak123@gmail.com />
 
-- 📄 Know about my experiences [https://therogersak.github.io/Rogers-Resume/](https://therogersak.github.io/Rogers-Resume/)
+<Resume [https://therogersak.github.io/Rogers-Resume/](https://therogersak.github.io/Rogers-Resume/) />
 
 - ⚡ Fun fact **DO MORE PRACTICE 😊**
 ```
