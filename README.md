@@ -14,7 +14,7 @@
 
 < 💬 Ask me about **React, Redux, Firebase, Javascript** />
 
-< 📫 How to reach me **therogersak123@gmail.com />
+< 📫 How to reach me **therogersak@gmail.com />
 
 <Resume [https://therogersak.github.io/Rogers-Resume/](https://therogersak.github.io/Rogers-Resume/) />
 
