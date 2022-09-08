@@ -2,9 +2,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=therogersak)
 
-<div align="center">
-	<img src="https://github.com/therogersak/therogersak/blob/main/portfolio.png?raw=true" height="100">
-</div>
+![](https://github.com/therogersak/portfolie-using-next-js/blob/main/portfolio.png?raw=true)
 
 ```js
 export default {
