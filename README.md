@@ -2,7 +2,8 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=therogersak)
 
-![](https://github.com/therogersak/portfolie-using-next-js/blob/main/portfolio.png?raw=true)
+
+ <a href="https://marvelfansofficial.com/"><img src="https://github.com/therogersak/portfolie-using-next-js/blob/main/portfolio.png?raw=true" alt="Logo" width="100%"></a>
 
 ```js
 export default {
