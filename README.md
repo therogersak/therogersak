@@ -13,8 +13,8 @@ export default {
     backEnd: ['nodejs', 'php'],
     frontEnd: ['javascript', 'jquery', 'react-js, next-js , redux', 'Html-Css-Sass', 'JSON', 'Tailwind, Bootstrap'],
     database: ['mongo','mysql', 'firebase'],
-    ui/ux: ['Adobe Xd', 'Figma', 'Adobe Illustrator']
-    misc: ['sourcepawn']
+    ui/ux: ['Adobe Xd', 'Figma', 'Adobe Illustrator'],
+    misc: ['Slowed Reverb']
   }
 }
 ```
