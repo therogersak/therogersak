@@ -3,7 +3,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=therogersak)
 
 
- <a href="https://therogersak.netlify.app/"><img src="https://github.com/therogersak/portfolie-using-next-js/blob/main/portfolio.png?raw=true" alt="Logo" width="100%"></a>
+ <a href="http://therogersak.vercel.app/"><img src="https://github.com/therogersak/portfolie-using-next-js/blob/main/portfolio.png?raw=true" alt="Logo" width="100%"></a>
 
 ```js
 export default {
