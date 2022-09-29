@@ -78,8 +78,3 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and 
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=giingu&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
 
-## 🎮 Try pressing the buttons and come back down
-
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
-
