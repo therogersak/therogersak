@@ -68,6 +68,6 @@ Hi 👋, I am **therogersak** an enthusiastic and ambitious full stack developer
   <a href="https://github.com/therogersak?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/therogersak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/therogersak">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=giingu&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=therogersak&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
 
