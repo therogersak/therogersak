@@ -1,4 +1,4 @@
- <a href="http://therogersak.vercel.app/"><img src="https://github.com/therogersak/portfolie-using-next-js/blob/main/portfolio.png?raw=true" alt="Logo" width="100%"></a>
+ <a href="http://therogersak.vercel.app/"><img src="https://github.com/therogersak/therogersak/blob/main/Artboard%201.png?raw=true" alt="Logo" width="100%"></a>
  
  <p align="center">
   <a href="https://www.youtube.com/c/therogersak"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
