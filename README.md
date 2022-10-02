@@ -30,7 +30,7 @@ Hi 👋, I am **therogersak** an enthusiastic and ambitious full stack developer
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
+- 👨‍💻 All of my projects are available at [Projects](https://therogersak.vercel.app/projects)
 
 - 💬 Ask me about **open source, web development, and community management**
 
