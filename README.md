@@ -60,7 +60,7 @@ Hi 👋, I am **therogersak** an enthusiastic and ambitious full stack developer
 </p>
 <p align="right">
   <a href="https://therogersak.vercel.app">
-    <img alt="nezuko bot" title="Check out Nezuko" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="portfolio" title="Check out website" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
  <a href="https://instagram.com/therogersak">
     <img alt="discord community" title="Join our community" src="https://img.shields.io/youtube/channel/views/UCTpljDLal75UN3l_nFhzx6g?style=social"/></a><br>
   <a href="https://github.com/therogersak?tab=repositories&sort=stargazers">
