@@ -18,7 +18,7 @@
 
 <p>
   
-Hi 👋, I am **therogersak** an enthusiastic and ambitious full stack developer and Hacker. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **therogersak** an enthusiastic and ambitious Frontend Developer and Hacker. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
 
 <div>
 <details>
