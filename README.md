@@ -1,4 +1,4 @@
- <a href="http://therogersak.vercel.app/"><img src="https://media-exp1.licdn.com/dms/image/D4D16AQGScWntmfK1Tw/profile-displaybackgroundimage-shrink_350_1400/0/1670462407947?e=1675900800&v=beta&t=9TPW9wIgwq0KrYcPXLC9ZJEEWc413H394PC-6LhcDyc" alt="Logo" width="100%"></a>
+ <a href="http://therogersak.vercel.app/"><img src="https://drive.google.com/file/d/1upinBRFqWq1ch4gVO9dR3T6sS2h8dgKo/view?usp=sharing" alt="Logo" width="100%"></a>
  
  <p align="center">
   <a href="https://www.youtube.com/c/therogersak"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
