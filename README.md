@@ -69,8 +69,6 @@ Hi 👋, I am **therogersak** an enthusiastic and ambitious Frontend Developer a
   <a href="https://github.com/therogersak?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/therogersak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  
- [![Sparkline](https://stars.medv.io/therogersak/badges.svg)](https://stars.medv.io/therogersak/badges)
-   
 </p>
 
 
