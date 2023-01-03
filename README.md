@@ -61,7 +61,7 @@ Hi 👋, I am **therogersak** an enthusiastic and ambitious Frontend Developer a
 <p align="right">
   <a href="https://therogersak.vercel.app">
     <img alt="portfolio" title="Check out website" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
- <a href="https://instagram.com/therogersak">
+ <a href="https://instagram.com/raoankittt">
     <img alt="discord community" title="Join our community" src="https://img.shields.io/youtube/channel/views/UCTpljDLal75UN3l_nFhzx6g?style=social"/></a><br>
   <a href="https://github.com/therogersak?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ftherogersak"/></a>
